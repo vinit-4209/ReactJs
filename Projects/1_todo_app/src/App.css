@@ -16,7 +16,7 @@
 input {
     width: 100%;
     padding: 12px;
-    
+
 }
 /* .container text-center{
     color: rgb(175, 203, 37);
@@ -52,4 +52,9 @@ input {
 button {
     margin: 5px;
     margin-top: 10px;
+}
+
+.kg-row{
+    margin: 5px;
+    
 }
