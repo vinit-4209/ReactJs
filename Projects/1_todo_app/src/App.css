@@ -1,0 +1,54 @@
+.Todo h1{
+    text-align: center;
+    color: rgb(171, 28, 28);
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+    font-weight: 900;
+    margin: 20px;
+    margin-bottom: 20px;
+}
+/* 
+.Todo h1 {
+    font-weight: 900;
+  } */
+
+input {
+    width: 100%;
+    padding: 12px;
+}
+/* .container text-center{
+    color: rgb(175, 203, 37);
+    text-align: center;
+    margin-bottom: 20px; */
+
+/* } */
+
+.AddTask-container {
+    text-align: left;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding: 20px;
+    border-radius: 10px;
+    background-color: rgb(175, 203, 37);
+
+}
+
+.Task-container{
+    text-align: left;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding: 20px;
+    border-radius: 10px;
+    background-color: rgb(175, 203, 37);
+
+}
+
+button {
+    margin: 5px;
+    margin-top: 10px;
+}
