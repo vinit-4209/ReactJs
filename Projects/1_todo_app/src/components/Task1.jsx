@@ -7,7 +7,7 @@ function Task1() {
         <div class="col-6">{todoWork}</div>
         <div class="col-4">{todoDate}</div>
         <div class="col-2">
-          <button type="button" class="btn btn-danger">
+          <button type="button" class="btn btn-danger kg-btn">
             Delete
           </button>
         </div>

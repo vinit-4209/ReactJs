@@ -9,7 +9,7 @@ function AddTask() {
           <input type="date" />
         </div>
         <div class="col-2">
-          <button type="button" class="btn btn-primary">
+          <button type="button" class="btn btn-primary kg-btn">
             Add
           </button>
         </div>

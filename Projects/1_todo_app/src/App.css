@@ -15,7 +15,7 @@
 
 input {
     width: 100%;
-    padding: 12px;
+    padding: 5px;
 
 }
 /* .container text-center{
@@ -57,4 +57,8 @@ button {
 .kg-row{
     margin: 5px;
     
+}
+
+.kg-btn{
+    width:80px;
 }
