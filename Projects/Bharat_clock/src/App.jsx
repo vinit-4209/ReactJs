@@ -1,14 +1,14 @@
-import "./App.css";
+import clockTitle from "./components/clockTitle";
+import clockTime from "./components/clockTime";
+import clockMoto from "./components/clockMoto";
 
 function App() {
   return (
-    <>
-      <div class="container text-center title">
-        <h1>BHARAT CLOCK </h1>
-        <br />
-        This is the Bharat clock project.
-      </div>
-    </>
+    <div>
+      <clockMoto></clockMoto>
+      <clockTitle></clockTitle>
+      <clockTime></clockTime>
+    </div>
   );
 }
 
