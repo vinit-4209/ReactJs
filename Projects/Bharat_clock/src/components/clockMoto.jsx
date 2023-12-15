@@ -1,5 +1,5 @@
-function clockMoto() {
-  return ehfhaefhfhKAH;
+function ClockMoto() {
+  return <>This is the clock made for bharat </>;
 }
 
-export default clockMoto;
+export default ClockMoto;

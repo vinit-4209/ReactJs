@@ -1,5 +1,9 @@
-function clockTitle() {
-  return <h1>Bharat Clock</h1>;
+function ClockTitle() {
+  return (
+    <center className="title">
+      <h1 >BHARAT CLOCK</h1>
+    </center>
+  );
 }
 
-export default clockTitle;
+export default ClockTitle;

@@ -1,14 +1,17 @@
-import clockTitle from "./components/clockTitle";
-import clockTime from "./components/clockTime";
-import clockMoto from "./components/clockMoto";
-
+import ClockTitle from "./components/ClockTitle";
+import ClockTime from "./components/ClockTime";
+import ClockMoto from "./components/ClockMoto";
+import "./App.css"; 
 function App() {
   return (
-    <div>
-      <clockMoto></clockMoto>
-      <clockTitle></clockTitle>
-      <clockTime></clockTime>
-    </div>
+    <center>
+      <ClockTitle />
+
+      <ClockMoto />
+      <br />
+
+      <ClockTime />
+    </center>
   );
 }
 
